@@ -25,7 +25,7 @@ Atualizações futuras trarão arquivos e usuários.
 <br>
 
 
->[!IMPORTANT]
+>[!ADMINISTRATION]
 >
 > Livreto está passando pela fase de desenvolvimento e em breve estará disponível para teste.
 
