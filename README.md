@@ -5,8 +5,6 @@
                                                       
 
      O livreto nascerá como um acervo pessoal. Nele você poderá guardar e listar seus livros.
-     
-
     Posteriormente vou implementar mais funcionalidades. Algumas funcionalidades futuras trarão arquivos e usuários. 
 
     
@@ -33,3 +31,15 @@ RF06 - Deve haver páginas para cada usuários exibir suas listas de livros.
 RF07 -  Os usuários devem poder se comunicar com um pequeno chat ou fórum.
 RF08 - 
 
+
+
+
+
+
+
+
+
+
+ ø?8ª╗)♫5ï¦iAI8ß41Ì6±0◘1´04h65–±0M65ñ03$6ú01p980 ¢  Ô8¿ZÈ\ß
+ 
+ ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘  Desenvolvido por Alan Santos ® ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
