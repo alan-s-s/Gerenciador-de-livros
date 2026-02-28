@@ -8,7 +8,7 @@
     Posteriormente vou implementar mais funcionalidades. Quero poder guardar arquivos pdf, deixar comoo uma função transferível e habilitar para os outros usuários. 
 
 
-                                                      Requisitos Funcionais
+  Requisitos Funcionais
 
 
 RF01 - Cadastro de Livros: O sistema deve permitir o cadastro de novos livros, recebendo dados como Título, Autor, Ano de Publicação e Gênero.
