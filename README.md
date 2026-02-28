@@ -11,7 +11,8 @@
 
   Requisitos Funcionais
 
-
+  - CRUD
+  
 RF01 - Cadastro de Livros: O sistema deve permitir o cadastro de novos livros, recebendo dados como Título, Autor, Ano de Publicação e Gênero.
 
 RF02 - Listagem de Livros: O sistema deve exibir uma lista de todos os livros cadastrados na base de dados.
