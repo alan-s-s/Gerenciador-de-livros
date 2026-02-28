@@ -21,11 +21,17 @@ Atualizações futuras trarão arquivos e usuários.
     - RF06 - Deve haver páginas para cada usuários exibir suas listas de livros e arquivos. 
     - RF07 -  Os usuários devem poder se comunicar com um pequeno chat ou fórum.
     
+<br>
+<br>
 
 
+>[!IMPORTANT]
+>
+> Livreto está passando pela fase de desenvolvimento e em breve estará disponível para teste.
 
-
-
+<br>
+<br>
+<br>
                                                                       
 ©  Desenvolvido por Alan Santos 
 
