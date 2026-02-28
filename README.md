@@ -2,8 +2,10 @@
 
 
                                                       Seja bem-vindo ao Livreto
+                                                      
 
-   O livreto nascerá como um acervo pessoal. Nele você poderá guardar e listar seus livros.
+     O livreto nascerá como um acervo pessoal. Nele você poderá guardar e listar seus livros.
+     
 
     Posteriormente vou implementar mais funcionalidades. Algumas funcionalidades futuras trarão arquivos e usuários. 
 
