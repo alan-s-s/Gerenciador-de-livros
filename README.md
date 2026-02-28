@@ -35,12 +35,6 @@ RF08 -
 
 
 
-
-
-
-
-
- ø?8ª╗)♫5ï¦iAI8ß41Ì6±0◘1´04h65–±0M65ñ03$6ú01p980 ¢  Ô8¿ZÈ\ß
                                                    ◘◘                  ◘◘
                                                    
                                                 Desenvolvido por Alan Santos ® 
