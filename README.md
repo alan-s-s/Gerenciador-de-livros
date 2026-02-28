@@ -1,7 +1,7 @@
 # Gerenciador-de-livros
 
 
-                                                      Seja bem-vindo ao Livreto
+                            Seja bem-vindo ao Livreto
                                                       
 
      O livreto nasceu como um acervo pessoal. Nele você poderá guardar e listar seus livros.
