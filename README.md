@@ -27,6 +27,6 @@ Atualizações futuras trarão arquivos e usuários.
 
 
                                                                       
-©  Desenvolvido por [Alan Santos](github.com/alan-s-s) 
+©  Desenvolvido por [Alan Santos](github.com/alan-s-s/) 
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
