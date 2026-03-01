@@ -1,4 +1,4 @@
-![bannerLivreto](./assets/bannerLivreto.png)
+![bannerLivreto](./assets)
 
 
 
