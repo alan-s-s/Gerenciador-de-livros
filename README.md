@@ -1,5 +1,9 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
+![bannerLivreto](./assets/bannerLivreto.png)
+
+
+
   # SEJA BEM-VINDO AO LIVRETO
                                                       
 
@@ -25,11 +29,11 @@ Atualizações futuras trarão arquivos e usuários.
 <br>
 
 
->[!ADMINISTRATION]
+>[!NOTE]
 >
 > Livreto está passando pela fase de desenvolvimento e em breve estará disponível para teste.
 
-<br>
+
 <br>
 <br>
                                                                       
