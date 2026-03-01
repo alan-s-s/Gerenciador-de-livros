@@ -1,10 +1,8 @@
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
 ![bannerLivreto](./assets/bannerLivreto.png)
 
 
 
-  # SEJA BEM-VINDO AO LIVRETO
+  # SEJA BEM-VINDO(A)
                                                       
 
  O livreto nasceu como um acervo pessoal. Nele você poderá guardar e listar seus livros.
