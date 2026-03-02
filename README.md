@@ -1,7 +1,5 @@
 ![bannerLivreto](./assets/bannerLivreto.png)
 
-
-
   # SEJA BEM-VINDO(A)
                                                       
 
@@ -9,10 +7,14 @@
 Atualizações futuras trarão arquivos e usuários. 
 
 
-## Tecnologias e ferramentas
-  ![javaScript](./assets/javaScript.svg)
-  ![nde](./assets/nde.svg)
-  ![xpress](./assets/xpress.svg)
+## Tecnologias e Ferramentas
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-106ff3?&logo=express&logoColor=white)
+
+
   ## **Requisitos Funcionais**
 
 **CRUD**
