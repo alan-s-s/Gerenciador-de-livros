@@ -1,9 +1,7 @@
-![bannerLivreto](./assets/bannerLivreto.png)
-
   # SEJA BEM-VINDO(A)
                                                       
 
- O livreto nasceu como um acervo pessoal. Nele você poderá guardar e listar seus livros.
+ O sistema nasceu como um acervo pessoal. Nele você poderá guardar e listar seus livros.
 Atualizações futuras trarão arquivos e usuários. 
 
 
