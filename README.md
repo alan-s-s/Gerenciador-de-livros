@@ -12,6 +12,13 @@ Atualizações futuras trarão arquivos e usuários.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-106ff3?&logo=express&logoColor=white)
 
+<br>
+
+  - [ ] **Fase 1: Estrutura da API e Lógica de Negócios**
+  - [ ] **Fase 2: Persistência e Modelagem de Dados**
+  - [ ] **Fase 3: Computação em Nuvem e Deploy**
+
+  <br>
 
   ## **Requisitos Funcionais**
 
