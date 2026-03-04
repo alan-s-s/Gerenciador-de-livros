@@ -14,9 +14,9 @@ Atualizações futuras trarão arquivos e usuários.
 
 <br>
 
-  - [ ] **Fase 1: Estrutura da API e Lógica de Negócios**
-  - [ ] **Fase 2: Persistência e Modelagem de Dados**
-  - [ ] **Fase 3: Computação em Nuvem e Deploy**
+  - [ ] **Fase 1:**
+  - [ ] **Fase 2:**
+  - [ ] **Fase 3:**
 
   <br>
 
